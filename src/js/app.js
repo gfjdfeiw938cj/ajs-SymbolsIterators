@@ -38,7 +38,7 @@ class Team {
     //   }
     // }
 
-    //или
+    //или второй вар
     return this.team.values();
   }
 }
